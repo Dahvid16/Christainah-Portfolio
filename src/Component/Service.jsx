@@ -22,7 +22,7 @@ const Service = () => {
                 <p className="service-div-p">
                     Logo design is the creation of a unique visual symbol that represents a brand, combining imagery
                     and
-                    text to communicate its identity and values effectively to future customers.
+                    text to communicate its identity and values effectively.
                 </p>
                 </Reveal>
             </div>
