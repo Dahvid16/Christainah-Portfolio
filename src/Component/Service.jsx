@@ -1,7 +1,7 @@
 import React from 'react'
 import LogoIcon from '../assets/Images/Logo_icon.png'
 import FlyerIcon from '../assets/Images/Flyer_icon.png'
-import CertificateIcon from '../assets/Images/certificate_icon.png'
+import CertificateIcon from '../assets/Images/Certificate_icon.png'
 import { Reveal } from '../reveal'
 
 const Service = () => {
